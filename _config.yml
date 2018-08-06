@@ -35,10 +35,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+#twitter:            default
+facebook:           priyankakompella
+instagram:          lovedancepripri
+#github:             default
 
 # personal
 location:           Seattle, WA
