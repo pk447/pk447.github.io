@@ -4,11 +4,11 @@
 	html5up.net | @ajlkn
   Jekyll integration by somiibo.com
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
---><html>
+-->
+<html>
 	<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
 <title>Priyanka Kompella</title>
 <meta name="description" content="I'm a creative. I design solutions.">
@@ -23,8 +23,8 @@
 <meta name="theme-color" content="#ffffff">
 
 <!-- CSS -->
-<link rel="stylesheet" href="/assets/css/main.css">
-<noscript><link rel="stylesheet" href="/assets/css/noscript.css"></noscript>
+<link rel="stylesheet" href="/assets/css/main.css" />
+<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
 
 
 	</head>
@@ -45,7 +45,7 @@
             <ul class="links">
   <li class=""><a href="/">Welcome</a></li>
   <li class=""><a href="/about/">About Me</a></li>
-  <li class=" active "><a href="/blog/">Portfolio</a></li>
+  <li class=""><a href="/blog/">Portfolio</a></li>
   <li class=""><a href="/elements/">Resume</a></li>
 </ul>
 
@@ -70,13 +70,12 @@
 						<p>
 							Content fulfills the general population seeing your website and it likewise fulfills web indexes! Having solid content
 							influences your advertising to work a hell of a great deal simpler. Along these lines, the greatest bit of the promoting riddle is there. It's vital to thoroughly consider this technique before starting another crusade. This makes the whole content and advertising process more streamlined and will in the end enable your message to achieve your clients in a more effective manner. You ought not think little of the significance of giving yourself room. Having squirm room takes into consideration steady changes to your methodology en route.
-						</p>
-<p>
+						<p>
 						</p>
 							At that point, rather than pushing something superfluous to your users, you can give them something that will stick.
 							You'll give them something they can identify with and be slanted to share with their companions and associates. Perhaps they'll even be slanted to work with you later on!
 							Having an advancement technique that is excessively unbending isn't astute on the grounds that there is no space for solid spontaneous creation. Having the capacity to change your advertising procedure will prompt more deals and arrangements.
-						
+						</p>
 
           </article>
 					<!-- Post -->
@@ -88,7 +87,7 @@
 									<span class="date">31 Oct 2017</span>
 									<h2><a href="/blog/welcome-to-massively-the-jekyll-theme/">Welcome to Massively: The Jekyll Theme!</a></h2>
 								</header>
-								<a href="/blog/welcome-to-massively-the-jekyll-theme/" class="image fit"><img src="/images/pic02.jpg" alt=""></a>
+								<a href="/blog/welcome-to-massively-the-jekyll-theme/" class="image fit"><img src="/images/pic02.jpg" alt="" /></a>
 								<p>Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do</p>
 								<ul class="actions">
 									<li><a href="/blog/welcome-to-massively-the-jekyll-theme/" class="button">Full Story</a></li>
@@ -107,18 +106,18 @@
     <form method="POST" action="https://formspree.io/pk447@cornell.edu">
       <div class="field">
         <label for="name">Name</label>
-        <input type="text" name="name" id="name">
+        <input type="text" name="name" id="name" />
       </div>
       <div class="field">
         <label for="email">Email</label>
-        <input type="text" name="email" id="email">
+        <input type="text" name="email" id="email" />
       </div>
       <div class="field">
         <label for="message">Message</label>
         <textarea name="message" id="message" rows="3"></textarea>
       </div>
       <ul class="actions">
-        <li><input type="submit" value="Send Message"></li>
+        <li><input type="submit" value="Send Message" /></li>
       </ul>
     </form>
   </section>
@@ -147,7 +146,7 @@
 </footer>
 <!-- Copyright -->
 <div id="copyright">
-  <ul><li>© Priyanka Kompella</li></ul>
+  <ul><li>&copy; Priyanka Kompella</li></ul>
 </div>
 
 
